@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Bruno Dangelo e sou programador.
+- 👋 Olá, me chamo Bruno Dangelo e sou programador, atualmente focado nos estudos de banco de dados e procurando uma oportunidade no mercado na area de DBA.
 - 📫 brunodangelorj@protonmail.com 
 
 <!---
