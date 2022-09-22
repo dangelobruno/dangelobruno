@@ -7,7 +7,7 @@
 - 🌱 Atualmente aprendendo **SQL e MySQL**
 
 - 💬 Me pergunte sobre **SQL MySQL**
-- 
+
 - 📫 Você pode me encontrar em **brunodangelorj@protonmail.com**
 
 - 📄 Minhas experiências [www.linkedin.com/in/bruno-dangelo](www.linkedin.com/in/bruno-dangelo)
