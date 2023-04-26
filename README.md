@@ -25,5 +25,5 @@ Me chamo Bruno D` Angelo, sou do Rio de Janeiro e desde pequeno tive o interesse
 
 
 ## 🛠 Habilidades
-Pacote Office, SQL, MySQL.
+Pacote Office, SQL, MySQL, Git, Github.
 
