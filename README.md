@@ -12,7 +12,7 @@ Me chamo Bruno D` Angelo, sou do Rio de Janeiro e desde pequeno tenho interesse 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dangelo/)
 
 
-## Outras seções comuns em perfis do GitHub
+## Tecnologias e contato
 
 
 🧠 SQL
